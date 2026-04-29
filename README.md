@@ -29,3 +29,26 @@ A deep learning project that detects food from images and provides personalized 
 ---
 
 ## 📁 Project Structure
+├── diet_advisor.ipynb     # Main Colab notebook
+├── README.md              # Project documentation
+
+## ▶️ How to Run
+
+1. Open `diet_advisor.ipynb` in Google Colab
+2. Mount your Google Drive
+3. Add your Groq API key
+4. Run all cells
+5. Use the Gradio link to access the app
+
+---
+
+## 📸 Sample Output
+<img width="1409" height="466" alt="image" src="https://github.com/user-attachments/assets/563b04a3-3092-4f98-b571-cc7e2137192b" />
+
+<img width="1410" height="490" alt="image" src="https://github.com/user-attachments/assets/187f4ce5-1d0e-45e4-a60e-e151a8c53ae0" />
+
+---
+
+## 👨‍💻 Author
+**Your Name**
+B.Tech CSE | VIT-AP University
